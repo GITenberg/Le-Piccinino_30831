@@ -1,0 +1,34 @@
+_repo: Le-Piccinino_30831
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    - Dudevant, Amandine-Aurore-Lucile
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia: http://en.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_bookshelf:
+- FR Nouvelles
+- FR Femmes
+gutenberg_issued: '2010-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30831'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Le Piccinino
+url: http://www.gutenberg.org/ebooks/30831
